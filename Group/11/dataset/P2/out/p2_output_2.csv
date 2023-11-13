@@ -1,0 +1,11 @@
+PatientID,Age,Gender,Diagnosis,Treatment
+1,35.0,Male,Asthma,Medication
+2,55.0,Female,Hypertension,Inhaler
+3,,Male,Asthma,Inhaler
+4,,Female,Diabetes,Surgery
+5,55.0,Female,Diabetes,Medication
+6,35.0,Male,Asthma,Surgery
+7,55.0,Male,Diabetes,Inhaler
+8,35.0,Female,Hypertension,Inhaler
+9,55.0,Male,Asthma,Inhaler
+10,25.0,Male,Asthma,Inhaler

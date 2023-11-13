@@ -1,0 +1,3 @@
+OriginCity,OriginLat,OriginLong,DestCity,DestLat,DestLong,Distance,TimeOfFlight,AirFarePrice
+City_1,34.44,-112.79,City_22,35.32,-70.93,3790.86,4.15,995.0
+City_3,34.13,-71.8,City_19,42.58,-73.86,956.52,3.11,52.0

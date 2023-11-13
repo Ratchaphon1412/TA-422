@@ -1,0 +1,11 @@
+PatientID  Age   Gender     Diagnosis   Treatment
+        1   35   Male      Asthma     Medication 
+        2   55  Female  Hypertension    Inhaler  
+        3 NaN    Male      Asthma       Inhaler  
+        4 NaN   Female    Diabetes      Surgery  
+        5   55  Female    Diabetes    Medication 
+        6   35   Male      Asthma       Surgery  
+        7   55   Male     Diabetes      Inhaler  
+        8   35  Female  Hypertension    Inhaler  
+        9   55   Male      Asthma       Inhaler  
+       10   25   Male      Asthma       Inhaler  
